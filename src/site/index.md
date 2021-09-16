@@ -1,6 +1,6 @@
 ---
 title: My Mental Pocket 
-subtitle: A platform help to overcome your stress.<br /> Made by <a href="https://digitalhealthcare.or.kr">HY Digital Healthcare Center</a> & <a href="https://www.navercloudcorp.com/">Naver Cloud</a>, & <a href="http://www.atommerce.com/">atommerce</a>.
+subtitle: A platform help to overcome your stress.<br /> Made by <a href="https://digitalhealthcare.or.kr">HY Digital Healthcare Center</a> & <a href="https://www.navercloudcorp.com/">Naver Cloud</a> & <a href="http://www.atommerce.com/">atommerce</a>.
 layout: layouts/base.njk
 ---
 <img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/MyMentalPocket_LOGOb.png?raw=true" width="150">
