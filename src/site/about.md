@@ -8,7 +8,7 @@ subtitle: Your nearest mental care solution
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
-<img size src="http://digitalhealthcare.or.kr/wp-content/uploads/2021/09/My-mental-pocket-Poster-v5-scaled.jpg" width="600">
+<img size src="MyMentalPocket_homepage/src/site/images/mymentalpocket_hompage_image.png" width="600">
 
 <div class="nakedLink">
 
@@ -16,15 +16,11 @@ Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/0
 
 </div>
 
-## One-click deploy
+## My friend 'Poky'
 
-To get your own instance of this [Eleventy](https://11ty.io) starter project cloned and deploying to [Netlify](https://www.netlify.com) very quickly, just click the button below and follow the instructions.
+내 친구 포키를 소개합니다.
 
-<div class="nakedLink">
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/philhawksworth/eleventyone)
-
-</div>
+<img size src="MyMentalPocket_homepage/src/site/images/poky.png" width="80">
 
 ## 👆 Wait, what happens when I click that button?
 
