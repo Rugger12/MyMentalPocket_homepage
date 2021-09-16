@@ -1,20 +1,14 @@
 ---
 title: A post page
-date: 2018-03-21
+date: 2021-09-16
 ---
 
-There's not much here in the sample post page. Better get to work.
-
-The common front-matter data for all of the files in the posts section are abstracted into a `posts.json` file so that we don't need to repeat that on every file. Handy.
-
-It looks like this:
+'마이멘탈포켓'은 과학기술정보통신부와 한국연구재단의 "포스트코로나 시대 비대면 정서장애 예방 및 관리 플랫폼 기술 개발"과제 주관기관인 한양대학교 한양디지털헬스케어센터에서 제작되었습니다.
 
 ```js
-{
-  "layout" : "layouts/post.md",
-  "tags" : "post",
-  "templateEngineOverride": "njk,md"
-}
+"마이멘탈포켓"은 대한민국 정부의 "마이데이터", "마이헬스웨이" 사업의 취지를 계승하고자, "마이멘탈"로 이름은 선정하였습니다.
+멘탈포켓은 '마음챙김(Mindfulness)'의 관점에서 내 마음을 온전히 느끼고 마음의 상태를 알고자, 자신의 마음을 객체화 시켜 관찰하고, 주머니에 넣어 
+외부로부터의 풍파를 이겨낼 수 있도록 돕는 다는 비전을 표현하였습니다.
 ```
 
 
