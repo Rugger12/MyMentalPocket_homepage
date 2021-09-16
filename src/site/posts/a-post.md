@@ -5,7 +5,7 @@ date: 2021-09-16
 
 "마이멘탈포켓"은 과학기술정보통신부와 한국연구재단의 "포스트코로나 시대 비대면 <br> 정서장애 예방 및 관리 플랫폼 기술 개발"과제 주관기관 한양대학교  <br> 한양디지털헬스케어센터에서 제작되었습니다.
 
-<img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/MyMentalPocket_LOGO.png?raw=true" width="250">
+<img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/MyMentalPocket_LOGO.png?raw=true" width="150">
 
 ```js
 "마이멘탈포켓"은 대한민국 정부의 국민 데이터 주권 확보와 데이터 경제 활성화를 목표로하는
