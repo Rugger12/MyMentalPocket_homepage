@@ -31,24 +31,23 @@ The pages found in in the posts
 These links were sourced from [naver.com](https://www.hawksworx.com/feed.json) at build time.
 
 <ul class="listing">
-{%- for item in hawksworx.entries.slice(0,5) -%}
+{%- for item in hawksworx.entries.slice(0,3) -%}
   <li>
     <a href="https://digitalhealthcare.or.kr">HY Digital Healthcare Center</a>
   </li>
 {%- endfor -%}
 </ul>
 
-## Running locally
+## 마이멘탈포켓 서비스 계획
 
 ```bash
-# install the dependencies
+# 정신건강(정서장애) 해결을 위한 포털 지향
 npm install
 
-# External data sources can be stashed locally
-npm run seed
+# 포키의 성장 계획
+1. 우울관련 정보 제공 → 2. 개별 상담 챗봇 -> 3. 정신건강 전문의
+[+ 카운셀러, 사용자를 위한 데이터 대시보드 제공]
 
-# It will then be available locally for building with
-npm run start
 ```
 
 
