@@ -4,6 +4,7 @@ date: 2021-09-16
 ---
 
 ##로고이야기
+
 <img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/MyMentalPocket_LOGOb.png?raw=true" width="350">
 
 청바지 뒷주머니 형상의 도형안에 마음, 정신을 뜻하는 '하트'가 배치하고 있으며, 
