@@ -8,7 +8,7 @@ subtitle: Your nearest mental care solution
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
-<img src="http://digitalhealthcare.or.kr/wp-content/uploads/2021/09/My-mental-pocket-Poster-v5-scaled.jpg">
+<img size src="http://digitalhealthcare.or.kr/wp-content/uploads/2021/09/My-mental-pocket-Poster-v5-scaled.jpg" width="600">
 
 <div class="nakedLink">
 
