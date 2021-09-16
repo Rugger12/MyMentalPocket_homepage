@@ -8,7 +8,7 @@ subtitle: Your nearest mental care solution
 
 This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
 
-<img size src="src/site/images/mymentalpocket_hompage_image.png" width="600">
+<img size src="images/mymentalpocket_hompage_image.png" width="600">
 
 <div class="nakedLink">
 
@@ -20,7 +20,7 @@ Latest deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/0
 
 내 친구 포키를 소개합니다.
 
-<img size src="src/site/images/poky.png" width="80">
+<img size src="images/poky.png" width="80">
 
 ## 👆 Wait, what happens when I click that button?
 
