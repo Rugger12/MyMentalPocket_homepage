@@ -3,7 +3,7 @@ title: 마이멘탈포켓 로고이야기
 date: 2021-09-16
 ---
 
-#로고이야기
+##로고이야기
 
 <img size src="http://digitalhealthcare.or.kr/wp-content/uploads/2021/09/My-mental-pocket-Poster-v5-scaled.jpg" width="600">
 
