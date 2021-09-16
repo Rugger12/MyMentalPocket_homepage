@@ -5,7 +5,8 @@ layout: layouts/base.njk
 ---
 
 
-## 우울 할 때 찾아갈 수 있는 모두의 플랫폼
+## 우울 할 때 찾아갈 수 있는 모두의 플랫폼 
+<img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/MyMentalPocket_LOGO.png?raw=true" width="80">
 
 마이멘탈포켓은 다음의 서비스를 제공합니다.
 
