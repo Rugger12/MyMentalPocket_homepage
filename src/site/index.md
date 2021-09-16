@@ -1,22 +1,16 @@
 ---
-title: EleventyOne
-subtitle: A project scaffold for getting building with Eleventy quickly.<br /> Made by <a href="https://twitter.com/philhawksworth">Phil</a> for <a href="https://twitter.com/philhawksworth">Phil</a>, but perhaps you might also find it useful.
+title: My Mental Pocket
+subtitle: A platform help to overcome your stress.<br /> Made by <a href="https://digitalhealthcare.or.kr">HY Digital Healthcare Center</a> & <a href="https://www.navercloudcorp.com/">Naver Cloud</a>, & <a href="http://www.atommerce.com/">atommerce</a>.
 layout: layouts/base.njk
 ---
 
 
-## This site is a starting point
+## 우울 할 때 찾아갈 수 있는 모두의 플랫폼
 
-From this point we should already have:
+마이멘탈포켓은 다음의 서비스를 제공합니다.
 
-- [Eleventy](https://11ty.io) with a skeleton site
-- A date format filter for Nunjucks based on [Luxon](https://moment.github.io/luxon)
-- A tiny CSS pipeline with PostCSS
-- A tiny inline JS pipeline. (<a href="#" class="btn-log">Test a console.log message</a>)
-- JS [search index](/search.json) generator
-- [Netlify Dev](https://www.netlify.com/products/dev) for testing [Netlify redirects](https://netlify.com/docs/redirects/)
-- Serverless (FaaS) development pipeline with [Netlify Dev](https://www.netlify.com/products/dev) and [Netlify Functions](https://www.netlify.com/products/functions)
-
+- 우울할 때 인공지능 챗봇 친구 "포키"를 만나러 오세요.
+- "포키"와 대화를 나누면 나눌수록 나에게 적합한 중재치료가 제공됩니다.
 
 
 ## Post pages
@@ -34,7 +28,7 @@ The pages found in in the posts
 
 ## Links from an external data source
 
-These links were sourced from [hawksworx.com](https://www.hawksworx.com/feed.json) at build time.
+These links were sourced from [naver.com](https://www.hawksworx.com/feed.json) at build time.
 
 <ul class="listing">
 {%- for item in hawksworx.entries.slice(0,5) -%}
