@@ -5,7 +5,7 @@ date: 2021-09-16
 
 ##로고이야기
 
-<img size src="http://digitalhealthcare.or.kr/wp-content/uploads/2021/09/My-mental-pocket-Poster-v5-scaled.jpg" width="600">
+<img size src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/mymentalpocket_hompage_image.png?raw=true" width="600">
 
 청바지 뒷주머니 형상의 도형안에 마음, 정신을 뜻하는 '하트'가 배치하고 있으며, 
 가로는 '알약'을, 세로는 '눈물'을 형상화하여 눈물흘리는 마음을 알약으로 치유한다는 의미를 형상화 함.
