@@ -6,7 +6,7 @@ subtitle: Your nearest mental care solution
 
 ## Vision
 
-This site is deployed by, and hosted by [Netlify](https://www.netlify.com).
+마이멘탈포켓 서비스 소개
 
 <img size src="images/mymentalpocket_hompage_image.png" width="600">
 
