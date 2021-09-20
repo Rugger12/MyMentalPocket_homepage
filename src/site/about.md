@@ -11,7 +11,7 @@ subtitle: Your nearest mental care solution
 <img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/mymentalpocket_hompage_image.png?raw=true" width="600" alt="service poster">
 
 
-## My friend 'Pocky'
+## My friend 'Pockey'
 
 내 친구 포키를 소개합니다.
 
