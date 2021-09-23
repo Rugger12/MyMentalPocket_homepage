@@ -16,3 +16,6 @@ subtitle: Your nearest mental care solution
 내 친구 포키를 소개합니다.
 
 <img src="https://github.com/Rugger12/MyMentalPocket_homepage/blob/master/src/site/images/poky.png?raw=true" width="80" alt="pocky character">
+
+
+#마이멘탈포켓, #mymentalpocket, #"마이 멘탈 포켓", #"My Mental Pocket"
