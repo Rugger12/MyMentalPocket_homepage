@@ -12,7 +12,6 @@ date: 2021-09-16
 
 이 홈페이지는 정신건강관리 챗봇 서비스 마이멘탈포켓 홈페이지 입니다. 이와 관련된 문의사항은 <a href="https://digitalhealthcare.or.kr">한양디지털헬스케어센터 (HY Digital Healthcare Center)</a>로 문의 해주시길 부탁드립니다. [home page](/)
 
-#마이멘탈포켓, #mymentalpocket
-
+#마이멘탈포켓, #mymentalpocket, #"마이 멘탈 포켓", #"My Mental Pocket"
 
 
